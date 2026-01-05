@@ -1,3 +1,5 @@
 https://www.kaggle.com/datasets/lava18/google-play-store-apps
 
 https://www.kaggle.com/datasets/kundanbedmutha/exam-score-prediction-dataset
+
+https://www.kaggle.com/datasets/dhairyajeetsingh/ecommerce-customer-behavior-dataset/data
